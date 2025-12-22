@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en-US"
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="https://www.facebook.com/2008/fbml"
+
+>
+<head>
+<script>if (window.performance && performance.mark) performance.mark("TTP")</script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-language" content="en-ID">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="pinterest" content="nosearch">
+<meta name="google-site-verification" content="CInTyn7Penuq6VS3idN7WvGhh9fXx8GtzD7XffB8z3o" />
+
+<meta name="csrf_nonce" content="3:1757443933:h3mNc4ckq3t2W3lUIwJ4ng47mPQt:8a416649e0e75d267ae855f66eed361ff1967f7d806ceb0850e1da0ce950a3ba">
+<meta name="uaid_nonce" content="3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4">
+
+<meta property="fb:app_id" content="89186614300">
+
+<meta name="css_dist_path" content="/ac/sasquatch/css/" />
+<meta name="dist" content="202509091757442671" />
+
+
+<script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
+!function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
+</script>
+
+<link rel="stylesheet" href="https://www.etsy.com/dac/site-chrome/components/components.30fe198016e341,site-chrome/header/header.6a41bfc6e0e7d6,__modules__CategoryNav__src__/Views/ButtonMenu/Menu.02149cde20b454,__modules__CategoryNav__src__/Views/DropdownMenu/Menu.746c61f69b1398,site-chrome/footer/footer.746c61f69b1398,gdpr/settings-overlay.746c61f69b1398.css?variant=sasquatch" type="text/css" />
+<link rel="stylesheet" href="https://www.etsy.com/dac/neu/modules/listing_card_no_imports.5c84e07191fa5c,common/stars-svg.746c61f69b1398,neu/modules/favorite_listing_button.746c61f69b1398,neu/modules/quickview.746c61f69b1398,listzilla/responsive/listing-page-desktop.746c61f69b1398,category-nav/v2/breadcrumb_nav.fe3bd9d216295e,web-toolkit-v2/modules/forms/radios.746c61f69b1398,listing-page/image-carousel/responsive.746c61f69b1398,listzilla/image-overlay.746c61f69b1398,__modules__ListingPage__src__/Price/styles.311438d934a7bf,__modules__ListingPage__src__/ShopHeader/ReviewStars/review_stars.02149cde20b454,common/simple-overlay.fe3bd9d216295e,neu/payment_icons.fe3bd9d216295e,neu/apple_pay.fe3bd9d216295e,neu/google_pay.746c61f69b1398,listings3/checkout/single-listing.746c61f69b1398,common/forms_no_import.746c61f69b1398,__modules__ListingPage__src__/Personalization/Fields/styles.02149cde20b454,listzilla/giftwrap.746c61f69b1398,shop2/modules/regulatory-seller-details.fe3bd9d216295e,shop2/modules/seller-additional-details.fe3bd9d216295e,web-toolkit-v2/modules/banners/banners.746c61f69b1398,neu/common/follow-shop-button.fe3bd9d216295e,listzilla/responsive/review-content-modal.746c61f69b1398,appreciation_photos/photo_overlay.746c61f69b1398,listzilla/reviews/reviews_skeleton.fe3bd9d216295e,listzilla/reviews/reviews-section.746c61f69b1398,web-toolkit-v2/modules/action_groups/action_groups.746c61f69b1398,reviews/header.4f9de1b7666e82,listzilla/reviews/variations.746c61f69b1398,listzilla/responsive/max-height-review.fe3bd9d216295e,reviews/categorical-tags.746c61f69b1398,web-toolkit-v2/modules/chips/selectable_chip.746c61f69b1398,web-toolkit-v2/modules/chips/chip_group.746c61f69b1398,sort-by-reviews.3affa09ef32549,__modules__ListingPage__src__/SellerCred/Header/styles.6cc02951826104,shop2/common/rating-and-reviews-count.746c61f69b1398,__modules__ListingPage__src__/SellerCred/Badges/styles.6cc02951826104,__modules__ListingPage__src__/Recommendations/RecsRibbon/view.746c61f69b1398,listings3/structured-policies.fe3bd9d216295e,web-toolkit-v2/modules/forms/checkboxes.746c61f69b1398,favorites/collection/list.746c61f69b1398,favorites/collection/row.746c61f69b1398,favorites/adaptive-height-desktop.746c61f69b1398,__modules__ConditionalSaleInterstitial__src__/styles.02149cde20b454,__modules__CollectionRecs__src__/Views/Grid/view.746c61f69b1398,__modules__CollectionRecs__src__/Views/Card/view.32fb07f3620cc2.css?variant=sasquatch" type="text/css" />
+
+<script>
+//todo: this is from https://stackoverflow.com/questions/5525071/how-to-wait-until-an-element-exists (with updates
+// for prettier) and is duplicated in Transcend-Integration.ts. Ideally we would find a place both
+// files could call.
+function waitForElm(selector) {
+return new Promise((resolve) => {
+if (document.querySelector(selector)) {
+return resolve(document.querySelector(selector));
+}
+
+const observer = new MutationObserver(() => {
+if (document.querySelector(selector)) {
+observer.disconnect();
+resolve(document.querySelector(selector));
+}
+});
+
+// If you get "parameter 1 is not of type 'Node'" error, see https://stackoverflow.com/a/77855838/492336
+observer.observe(document.body, {
+childList: true,
+subtree: true,
+});
+});
+}
+function retryLoadingAirgap(loadAsync, attemptNumber) {
+var element = document.createElement("script");
+element.type = "text/javascript";
+element.src = "https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js";
+if (loadAsync) {
+element.setAttribute('data-cfasync', true);
+element.async = true;
+}
+
+element.onerror = (error) => {
+if (attemptNumber < 3) {
+window.__etsy_logging.eventpipe.logEvent({
+event_name: `transcend_cmp_airgap_preliminary_failure`,
+airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
+airgap_bundle: 'control_bundle',
+error: error,
+retryAttempt: attemptNumber,
+attemptWasAsyncLoad: loadAsync
+});
+retryLoadingAirgap(false, attemptNumber + 1);
+}
+else {
+try {
+//ideally we would have the same STATSD here as in transcend-integration.ts
+//but we can't import STATSD into mustache files.  This only occurs 0.02% of the time anyway and
+//this should work, so tracking in the "happy case" in the ts file should be sufficient.
+window.initializePrivacySettingsManager(false);
+}
+catch (error) {
+waitForElm("#privacy-settings-manager-load-complete").then(()=> {
+window.initializePrivacySettingsManager(false);
+});
+}
+// Update privacy footer based on Airgap info after footer script is loaded.
+waitForElm("#footer-script-loaded").then(()=> {
+window.updatePrivacySettingsFooterTextBasedOnRegime();
+});
+
+window.__etsy_logging.eventpipe.logEvent({
+event_name: `transcend_cmp_airgap_load_failure`,
+airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
+airgap_bundle: 'control_bundle',
+error: error,
+retryAttempts: attemptNumber
+});
+}
+}
+
+var head = document.getElementsByTagName('head')[0];
+head.appendChild(element);
+}
+
+function handleErrorLoadingAirgap() {
+window.__etsy_logging.eventpipe.logEvent({
+event_name: `transcend_cmp_airgap_preliminary_failure`,
+airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
+airgap_bundle: 'control_bundle',
+retryAttempt: 1,
+attemptWasAsyncLoad: true
+});
+
+retryLoadingAirgap(true, 2);
+}
+</script>
+
+<script data-cfasync="true" data-ui="off" src="https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js" onerror="(function() { handleErrorLoadingAirgap(); })()"  async></script>
+
+
+
+<title>INDOSLOTO - SITUS TOTO TOGEL 4D & SITUS TOGEL ONLINE PASARAN TERLENGKAP TERBARU 2026</title>
+<meta name="description" content="INDOSLOTO salah satu pilihan situs toto togel 4d dan situs togel online pasaran togel terlengkap 2026. INDOSLOTO sudah dipercaya sejak dahulu kala sebagai salah satu situs toto dan togel terbaik di Indonesia, sehingga menyediakan link login dan alternatif INDOSLOTO.">
+
+
+<link rel="canonical" href="https://dia.austral.edu.ar/Relaciones_interteóricas/" />
+<link rel="amphtml" href="https://kerja12jam.com/cp/austral/ampku.php" />
+
+
+
+<meta name="robots" content="max-image-preview:large">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+{
+  "@type": "Organization",
+  "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/",
+  "name": "INDOSLOTO",
+  "url": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/",
+  "logo": "https://bannersmb.site/icon/indo/logo.png",
+  "sameAs": [
+"https://www.facebook.com/INDOSLOTO",
+"https://twitter.com/INDOSLOTO",
+"https://www.instagram.com/INDOSLOTO"
+  ]
+},
+{
+  "@type": "WebSite",
+  "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#website",
+  "url": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/",
+  "name": "INDOSLOTO",
+  "inLanguage": "id-ID",
+  "publisher": {
+"@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#org"
+  },
+  "potentialAction": {
+"@type": "SearchAction",
+"target": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/search?q={search_term_string}",
+"query-input": "required name=search_term_string"
+  }
+},
+{
+  "@type": "WebPage",
+  "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#webpage",
+  "url": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/",
+  "name": "INDOSLOTO - SITUS TOTO TOGEL 4D & SITUS TOGEL ONLINE PASARAN TERLENGKAP TERBARU 2026",
+  "isPartOf": { "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#website" },
+  "about": { "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#org" },
+  "inLanguage": "id-ID",
+  "primaryImageOfPage": {
+"@type": "ImageObject",
+"url": "https://bannersmb.site/image/indosloto/19.png"
+  },
+  "description": "INDOSLOTO salah satu pilihan situs toto togel 4d dan situs togel online pasaran togel terlengkap 2026. INDOSLOTO sudah dipercaya sejak dahulu kala sebagai salah satu situs toto dan togel terbaik di Indonesia, sehingga menyediakan link login dan alternatif INDOSLOTO.",
+  "breadcrumb": {
+"@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+  }
+},
+{
+  "@type": "Article",
+  "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#article",
+  "isPartOf": { "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#webpage" },
+  "mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#webpage"
+  },
+  "author": {
+"@type": "Person",
+"name": "Admin INDOSLOTO"
+  },
+  "publisher": { "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#org" },
+  "headline": "INDOSLOTO - SITUS TOTO TOGEL 4D & SITUS TOGEL ONLINE PASARAN TERLENGKAP TERBARU 2026",
+  "datePublished": "2025-09-17T00:00:00+07:00",
+  "dateModified": "2025-09-17T00:00:00+07:00",
+  "inLanguage": "id-ID",
+  "image": "https://bannersmb.site/image/indosloto/19.png",
+  "articleSection": ["TOGEL ", "SITUS TOGEL", "SITUS INDOSLOTO"],
+  "keywords": [
+"SITUS INDOSLOTO",
+"SITUS TOGEL",
+"INDOSLOTO",
+"INDO SLOTO",
+"TOGEL ONLINE",
+"TOGEL 4D",
+"TOTO TOGEL"
+  ],
+  "description": "INDOSLOTO salah satu pilihan situs toto togel 4d dan situs togel online pasaran togel terlengkap 2026. INDOSLOTO sudah dipercaya sejak dahulu kala sebagai salah satu situs toto dan togel terbaik di Indonesia, sehingga menyediakan link login dan alternatif INDOSLOTO."
+},
+{
+  "@type": "BreadcrumbList",
+  "@id": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/",
+  "itemListElement": [
+{
+  "@type": "ListItem",
+  "position": 1,
+  "name": "Home",
+  "item": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+},
+{
+  "@type": "ListItem",
+  "position": 2,
+  "name": "Artikel",
+  "item": "https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#article"
+}
+  ]
+}
+  ]
+}
+</script>
+
+
+<meta name="twitter:site" content="@INDOSLOTO" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="INDOSLOTO" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="INDOSLOTO" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="INDOSLOTO" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
+<meta property="og:title" content="INDOSLOTO - SITUS TOTO TOGEL 4D & SITUS TOGEL ONLINE PASARAN TERLENGKAP TERBARU 2026" />
+<meta property="og:description" content="INDOSLOTO salah satu pilihan situs toto togel 4d dan situs togel online pasaran togel terlengkap 2026. INDOSLOTO sudah dipercaya sejak dahulu kala sebagai salah satu situs toto dan togel terbaik di Indonesia, sehingga menyediakan link login dan alternatif INDOSLOTO." />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://bannersmb.site/image/indosloto/19.png" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
+
+
+
+<meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="INDOSLOTO" /><meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="INDOSLOTO" />
+
+<link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://bannersmb.site/image/indosloto/19.png" fetchpriority="high" />
+
+
+
+<link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/" hreflang="en" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#au/" hreflang="en-AU" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#ca/" hreflang="en-CA" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#ie/" hreflang="en-IE" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#il-en/" hreflang="en-IL" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#in-en/" hreflang="en-IN" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#nz/" hreflang="en-NZ" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#no-en/" hreflang="en-NO" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#se-en/" hreflang="en-SE" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/uk/" hreflang="en-GB" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#de/" hreflang="de" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#at/" hreflang="de-AT" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#ch/" hreflang="de-CH" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#fr/" hreflang="fr" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#nl/" hreflang="nl" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#be/" hreflang="nl-BE" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#it/" hreflang="it" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#es/" hreflang="es" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#mx/" hreflang="es-MX" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#jp/" hreflang="ja" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#pl/" hreflang="pl" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#pt/" hreflang="pt" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/" hreflang="x-default" /><link rel="alternate" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/" hreflang="en-US" />
+
+<script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
+
+<link rel="shortcut icon" href="/favicon.ico" /><link rel="icon" href="https://bannersmb.site/icon/indo/fav.png" type="image/webp" sizes="32x32" /><link rel="icon" href="https://bannersmb.site/icon/indo/fav.png" type="image/webp" sizes="16x16" /><link rel="apple-touch-icon" href="https://bannersmb.site/icon/indo/fav.png" sizes="180x180" /><link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="rgb(241, 100, 30)" /><link rel="manifest" href="/site.webmanifest" />
+<meta name="apple-mobile-web-app-title" content="INDOSLOTO" /><meta name="application-name" content="INDOSLOTO" /><meta name="msapplication-TileColor" content="#f7a100" /><meta name="theme-color" content="rgb(255, 255, 255)" />
+
+<link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="INDOSLOTO"/>
+</head>
+<body class="ui-toolkit transitional-wide etsy-has-it-design is-responsive no-touch en-US IDR ID"
+data-language="en-US"
+data-currency="IDR"
+data-region="ID"
+
+>
+
+<script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
+!function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.defer=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://www.etsy.com/include/tags.js", "D013AA612AB2224D03B2318D0F5B19", {
+endpoint:"https://www.etsy.com/include/tags.js",
+ajaxListenerPath: true,
+enableTagEvents: true,
+overrideAbortFetch: true,
+abortAsyncOnChallengeDisplay: true,
+disableAutoRefreshOnCaptchaPassed: false,
+replayAfterChallenge: true
+});
+
+var DD_BLOCKED_EVENT_NAME = "dd_blocked";
+var DD_RESPONSE_DISPLAYED_EVENT_NAME = "dd_response_displayed";
+var DD_RESPONSE_ERROR_EVENT_NAME = "dd_response_error";
+
+window.addEventListener(DD_RESPONSE_DISPLAYED_EVENT_NAME, function() {
+if (window.Sentry && window.Sentry.setTag) {
+window.Sentry.setTag(DD_RESPONSE_DISPLAYED_EVENT_NAME, true);
+}
+});
+
+window.addEventListener(DD_BLOCKED_EVENT_NAME, function() {
+if (window.Sentry && window.Sentry.setTag) {
+window.Sentry.setTag(DD_BLOCKED_EVENT_NAME, true);
+}
+});
+
+window.addEventListener(DD_RESPONSE_ERROR_EVENT_NAME, function() {
+if (window.Sentry && window.Sentry.setTag) {
+window.Sentry.setTag(DD_RESPONSE_ERROR_EVENT_NAME, true);
+}
+});
+</script>
+
+
+<div data-above-header class="wt-z-index-5 wt-position-relative">
+
+
+
+</div>
+
+<div data-selector="header-cat-nav-wrapper" data-menu-ui="menubar">
+<div id="gnav-header" class=" gnav-header global-nav v2-toolkit-gnav-header wt-z-index-6 wt-bg-white wt-position-relative " data-as-version="10_12672349415_19" data-count-ajax data-show-suggested-searches-in-as="1" data-show-gift-card-cta-in-as="1" data-as-personalized="1" data-as-extras="{&amp;quot;expt&amp;quot;:&amp;quot;all_xml&amp;quot;,&amp;quot;lang&amp;quot;:&amp;quot;en-US&amp;quot;,&amp;quot;extras&amp;quot;:[]}" data-cheact="1" data-gnav-header>
+<header id="gnav-header-inner" class="global-enhancements-header wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-width-full wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-lg-6 wt-pr-lg-6 wt-bb-xs wt-bb-lg-none gnav-header-inner wt-pt-lg-2 
+
+"
+role="banner">
+
+<script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
+<div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
+<a href="/?ref=lgo" elementtiming="ux-global-nav">
+<span class="wt-screen-reader-only">INDOSLOTO</span>
+<span class="etsy-icon wt-display-block wt-fill-orange wt-nudge-r-3 wt-nudge-t-1 logo-dimensions" id="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" aria-hidden="true" focusable="false"><path d="M6.547,3.125v6.008c0,0,2.117,0,3.25-0.086c0.891-0.156,1.055-0.242,1.219-1.133l0.328-1.305h0.969l-0.164,2.852 l0.086,2.922h-0.977l-0.242-1.141c-0.242-0.812-0.57-0.977-1.219-1.055c-0.812-0.086-3.25-0.086-3.25-0.086v5.039 c0,0.969,0.492,1.383,1.625,1.383h3.414c1.055,0,2.109-0.086,2.766-1.625l0.883-1.953h0.82c-0.086,0.406-0.492,3.984-0.57,4.789 c0,0-3.086-0.078-4.383-0.078H5.25l-3.492,0.078v-0.883l1.133-0.25c0.82-0.164,1.062-0.406,1.062-1.055 c0,0,0.086-2.195,0.086-5.852c0-3.648-0.086-5.844-0.086-5.844c0-0.727-0.242-0.891-1.062-1.055L1.758,2.555V1.664l3.414,0.07h6.5 c1.297,0,3.484-0.234,3.484-0.234s-0.078,1.375-0.164,4.625h-0.891l-0.328-1.141c-0.32-1.461-0.805-2.188-1.703-2.188H6.961 C6.547,2.797,6.547,2.875,6.547,3.125z M19.703,3.766h0.977V7.18l3.336-0.164l-0.164,1.547l-3.25-0.25v6.016 c0,1.703,0.57,2.359,1.547,2.359c0.883,0,1.539-0.492,1.781-0.898l0.484,0.57c-0.484,1.133-1.859,1.703-3.164,1.703 c-1.617,0-2.93-0.969-2.93-2.836V8.398h-1.938V7.586C18.008,7.422,19.219,6.445,19.703,3.766z M26.695,14.242l0.648,1.547 c0.242,0.648,0.812,1.305,2.109,1.305c1.383,0,1.953-0.734,1.953-1.625c0-2.766-5.445-1.953-5.445-5.688c0-2.109,1.703-3.094,3.898-3.094c0.977,0,2.438,0.164,3.172,0.492c-0.164,0.812-0.25,1.867-0.25,2.68l-0.805,0.078l-0.57-1.625 c-0.164-0.398-0.82-0.727-1.625-0.727c-0.977,0-1.953,0.406-1.953,1.461c0,2.516,5.609,1.953,5.609,5.688c0,2.117-1.867,3.25-4.148,3.25c-1.703,0-3.414-0.656-3.414-0.656c0.164-0.969,0.086-2.023,0-3.086H26.695z M33.031,22.039 c0.242-0.891,0.406-2.023,0.57-3.086l0.891-0.078l0.328,1.703c0.078,0.406,0.32,0.734,0.969,0.734c1.055,0,2.438-0.648,3.742-2.922 c-0.578-1.383-2.281-5.844-3.828-9.258c-0.406-0.898-0.484-0.977-1.047-1.141l-0.414-0.156v-0.82l2.445,0.086l3-0.164V7.75 l-0.734,0.164c-0.57,0.078-0.805,0.398-0.805,0.727c0,0.086,0,0.164,0.078,0.328c0.156,0.492,1.461,4.141,2.438,6.578c0.805-1.703,2.352-5.523,2.594-6.172c0.086-0.328,0.164-0.406,0.164-0.648c0-0.414-0.242-0.656-0.805-0.812L42.039,7.75V6.938 l2.281,0.078l2.109-0.078V7.75l-0.406,0.32c-0.812,0.328-0.898,0.406-1.219,1.062l-3.57,8.359 c-2.117,4.797-4.312,5.203-5.852,5.203C34.406,22.695,33.672,22.445,33.031,22.039z"/></svg></span>
+</a>
+</div>
+<nav class="wt-hide-xs wt-show-lg">
+<div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu--body-below-trigger wt-tooltip--disabled-touch dropdown-category-menu wt-menu--bottom wt-menu--left" data-wt-menu data-wt-tooltip="true" data-menu-body-below-trigger="true" data-close-on-select="true" data-hide-trigger-on-open="false" data-animate-in="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="left" data-open-direction-force="true" data-menu-type="action">
+   
+<button
+  type="button"
+  class="wt-menu__trigger wt-btn wt-btn--transparent header-button wt-mr-xs-1 wt-btn--small"
+  aria-haspopup="true"
+  aria-expanded="false"
+  data-wt-menu-trigger
+  data-level="0"
+  data-overlay-trigger-selector= "overlay-trigger-ele"
+>
+  <span class="etsy-icon wt-mr-xs-1 wt-icon--smaller">
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 18 18">
+  <rect x="2" y="8"  width="14" height="2"/>
+  <rect x="2" y="13" width="14" height="2"/>
+  <rect x="2" y="3"  width="14" height="2"/>
+</svg>
+  </span>
+  Categories
+</button>
+
+<div data-neu-spec-placeholder="1" id="bd2c69bf978c5288825b3623782eb9a1">
+<script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"INDOSLOTO\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
+<div>
+
+
+</div>
+</div>
+
+<span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs wt-br-xs-none wt-bb-xs-none"></span>
+
+</div>
+</nav>
+
+<div class="wt-width-full wt-display-flex-xs wt-pr-lg-3 wt-flex-lg-1 order-mobile-tablet-2" data-hamburger-search-container>
+<button
+  data-id="hamburger"
+  class="wt-btn wt-btn--transparent wt-btn--icon wt-hide-lg
+   wt-btn--transparent-flush-left
+ wt-mb-xs-2
+   
+   wt-mb-lg-0
+   header-button"
+  aria-controls="mobile-catnav-overlay"
+  tab-index="0"
+ >
+  <span class="wt-screen-reader-only">
+Browse
+  </span>
+  <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 7H3V5h18zm-5 6H3v-2h13zm5 6H3v-2h18z"/></svg></span>
+ </button>
+<div class="wt-display-inline-block wt-flex-xs-1 wt-pl-lg-0
+wt-mb-xs-2
+
+wt-mb-lg-0">
+<form id="gnav-search"
+  class="global-enhancements-search-nav wt-position-relative wt-display-flex-xs"
+  method="GET"
+  action="/search.php"
+  role="search"
+  data-gnav-search
+  data-ge-search-clearable
+  data-trending-searches="1">
+
+<label for="global-enhancements-search-query" class="wt-label wt-screen-reader-only">
+   Search for items or shops
+</label>
+<div 
+class="search-container"
+data-id="search-bar"
+>
+<div
+class="wt-input-btn-group global-enhancements-search-input-btn-group emphasized_search_bar emphasized_search_bar_grey_bg search-bar-container"
+data-id="search-suggestions-trigger"
+>
+<input id="global-enhancements-search-query"
+data-id="search-query"
+data-search-input
+type="text"
+name="search_query"
+class="wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input
+wt-pr-xs-7
+
+"
+placeholder="Search for INDOSLOTO"
+value=""
+autocomplete="off"
+autocorrect="off"
+autocapitalize="off"
+role="combobox"
+aria-autocomplete="both"
+aria-controls="global-enhancements-search-suggestions"
+aria-expanded="false"
+/>
+<button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-btn--small position-absolute-important wt-position-right wt-z-index-9 wt-animated  wt-animated--is-hidden
+
+search-close-btn-margin-right " data-search-close-btn>
+<span class="wt-screen-reader-only">Clear search</span>
+<span class="wt-icon wt-icon--smaller wt-nudge-t-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
+</button>
+<button
+type="submit"
+class="wt-input-btn-group__btn global-enhancements-search-input-btn-group__btn
+
+"
+value="Search"
+aria-label="Search"
+data-id="gnav-search-submit-button">
+
+<span class="wt-icon wt-nudge-b-2 wt-nudge-r-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 19a8.46 8.46 0 0 0 5.262-1.824l4.865 4.864 1.414-1.414-4.865-4.865A8.5 8.5 0 1 0 10.5 19m0-2a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13"/></svg></span>
+</button>
+</div>
+<div id="global-enhancements-search-suggestions"
+class="global-nav-menu__body
+search-suggestions-container
+ wt-width-full wt-max-width-full
+"
+ data-id="search-suggestions">
+</div>
+</div>
+
+<input id="search-js-router-enabled" type="hidden" value="true" />
+<input type="hidden" value="all" name="search_type" id="search-type" />
+</form>
+</div>
+</div>
+
+<a 
+data-selector="skip-to-content-marketplace"
+class="global-enhancements-skip-to-content wt-screen-reader-only wt-focusable" 
+href="#content"
+>
+<div id="skip-to-content-wrapper" class="wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-body-max-width wt-width-full wt-height-full wt-position-absolute wt-position-top wt-position-left wt-position-right wt-bg-denim wt-z-index-10">
+<label class="wt-btn wt-btn--transparent wt-btn--light">
+Skip to Content
+</label>
+</div>
+</a>
+
+
+
+<div
+class="mobile-catnav-wrapper wt-overlay wt-overlay--peek wt-overlay--peek-left wt-p-xs-0"
+data-wt-overlay
+id="mobile-catnav-overlay"
+aria-hidden="true"
+aria-modal="false"
+role="dialog"
+
+>
+</div>
+
+<div class="wt-flex-shrink-xs-0" data-primary-nav-container>
+<nav aria-label="Main">
+<ul class="wt-display-flex-xs wt-justify-content-space-between wt-list-unstyled wt-m-xs-0 wt-align-items-center">
+<li>
+<button class="wt-btn wt-btn--small wt-btn--transparent wt-mr-xs-1 inline-overlay-trigger signin-header-action select-signin header-button">
+Sign in
+</button>
+</li>
+
+
+<li 
+data-favorites-nav-container 
+data-ge-nav-menu="favorites"
+data-ge-hover-event-name="gnav_hover_favorites_menu"
+>
+<span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip>
+<a href="/guest/favorites?ref=hdr-fav" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button"
+   data-favorites-nav-link
+   aria-labelledby="ge-tooltip-label-favorites">
+<span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M20.877 12.52q.081-.115.147-.239A6 6 0 0 0 12 4.528a6 6 0 0 0-9.024 7.753q.066.123.147.24l.673.961a6 6 0 0 0 .789.915L12 21.422l7.415-7.025q.44-.418.789-.915zm-14.916.425L12 18.667l6.04-5.722q.293-.279.525-.61l.673-.961a.3.3 0 0 0 .044-.087 4 4 0 1 0-7.268-2.619v.003L12 8.667l-.013.004v-.002l-.006-.064a3.98 3.98 0 0 0-1.232-2.51 4 4 0 0 0-6.031 5.193q.014.045.044.086l.673.961a4 4 0 0 0 .526.61"/></svg></span>
+</a>
+
+<span id="ge-tooltip-label-favorites" role="tooltip" data-favorites-label-tooltip>Favorites</span>
+</span>
+</li>
+<li data-gift-mode-nav-container>
+<span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip>
+<a href="/gift-mode?ref=gm_utility_nav"
+   class=" wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button"
+   data-gift-mode-nav-link
+   aria-labelledby="ge-tooltip-label-gift-mode">
+<span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z"/></svg></span>
+</a>
+
+<span id="ge-tooltip-label-gift-mode" role="tooltip" data-registry-label-tooltip>
+
+Gifts
+
+</span>
+</span>
+</li>
+<li 
+data-ge-nav-menu="cart"
+data-ge-hover-event-name="gnav_hover_cart_menu"
+>
+<span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
+<a aria-label="Cart" href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/#cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+<span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
+0
+</span>
+<span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="m5.766 5-.618-3H1v2h2.518l2.17 10.535L6.18 17h14.307l2.4-12zM7.82 15l-1.6-8h14.227l-1.6 8z"/><path d="M10.667 20.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m8.333 0a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"/></svg></span>
+</a>
+<span role="tooltip" aria-hidden="true">Cart</span>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+
+
+</div>
+
+<nav class="wt-hide-xs wt-show-lg category-nav-button-menu">
+<div data-ui="cat-nav" id="desktop-category-topnav" class="cat-nav responsive-disabled v2-toolkit-cat-nav wt-ml-xs-0 wt-mr-xs-0">
+<div class="wt-text-caption wt-position-relative wt-bg-white wt-z-index-5 v2-toolkit-cat-nav-tab-bar">
+<div class="wt-body-max-width">
+<ul class="wt-list-unstyled wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
+  
+  <li class="wt-mr-xs-3">
+  <a
+href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+class="wt-btn wt-btn--transparent wt-btn--small "
+data-menu-ui="menuitem"
+data-ui="top-nav-category-link"
+
+data-node-id="-10" >
+<span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z"/></svg></span><span>
+SITUS TOTO
+</span>
+  </a>
+</li><li class="wt-mr-xs-3">
+  <a
+href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+class="wt-btn wt-btn--transparent wt-btn--small "
+data-menu-ui="menuitem"
+data-ui="top-nav-category-link"
+
+>
+INDOSLOTO
+  </a>
+</li><li class="wt-mr-xs-3">
+  <a
+href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+class="wt-btn wt-btn--transparent wt-btn--small "
+data-menu-ui="menuitem"
+data-ui="top-nav-category-link"
+
+data-node-id="2" >
+TOGEL 4D
+  </a>
+</li><li class="wt-mr-xs-3">
+  <a
+href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+class="wt-btn wt-btn--transparent wt-btn--small "
+data-menu-ui="menuitem"
+data-ui="top-nav-category-link"
+
+data-node-id="3" >
+SITUS TOGEL
+  </a>
+</li><li class="wt-mr-xs-3">
+  <a
+href="https://dia.austral.edu.ar/Relaciones_interte%c3%b3ricas/"
+class="wt-btn wt-btn--transparent wt-btn--small "
+data-menu-ui="menuitem"
+data-ui="top-nav-category-link"
+
+>
+TOTO TOGEL 
+  </a>
+</li>
+  
+</ul>
+</div>
+</div>
+</div>
+</nav></div>
+
+
+
+<div class="wt-overlay wt-z-index-4" aria-hidden="true" data-ui="overlay"></div>
+
+<noscript>
+<div class="wt-body-max-width wt-pt-xs-2 wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pt-md-3 wt-pb-xs-0">
+<div id="javascript-nag" class="wt-alert wt-alert--inline wt-alert--success-01 wt-mb-xs-2">
+<div> Manfaatkan sepenuhnya fitur situs kami dengan mengaktifkan JavaScript. </div>
+</div>
+</div>
+</noscript>
+<div class="sidebar-cart-carat"></div>
+<div data-below-header>
+
+</div>
+
+
+
+
+<script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
+var webVitals=function(e){"use strict";var t,n,i,r,o,a=function(){return window.performance&&performance.getEntriesByType&&performance.getEntriesByType("navigation")[0]},u=function(e){if("loading"===document.readyState)return"loading";var t=a();if(t){if(e<t.domInteractive)return"loading";if(0===t.domContentLoadedEventStart||e<t.domContentLoadedEventStart)return"dom-interactive";if(0===t.domComplete||e<t.domComplete)return"dom-content-loaded"}return"complete"},c=function(e){var t=e.nodeName;return 1===e.nodeType?t.toLowerCase():t.toUpperCase().replace(/^#/,"")},s=function(e,t){var n="";try{for(;e&&9!==e.nodeType;){var i=e,r=i.id?"#"+i.id:c(i)+(i.classList&&i.classList.value&&i.classList.value.trim()&&i.classList.value.trim().length?"."+i.classList.value.trim().replace(/\s+/g,"."):"");if(n.length+r.length>(t||100)-1)return n||r;if(n=n?r+">"+n:r,i.id)break;e=i.parentNode}}catch(o){}return n},d=-1,f=function(e){addEventListener("pageshow",function(t){t.persisted&&(d=t.timeStamp,e(t))},!0)},l=function(){var e=a();return e&&e.activationStart||0},p=function(e,t){var n=a(),i="navigate";return d>=0?i="back-forward-cache":n&&(document.prerendering||l()>0?i="prerender":document.wasDiscarded?i="restore":n.type&&(i=n.type.replace(/_/g,"-"))),{name:e,value:void 0===t?-1:t,rating:"good",delta:0,entries:[],id:"v3-".concat(Date.now(),"-").concat(Math.floor(8999999999999*Math.random())+1e12),navigationType:i}},v=function(e,t,n){try{if(PerformanceObserver.supportedEntryTypes.includes(e)){var i=new PerformanceObserver(function(e){Promise.resolve().then(function(){t(e.getEntries())})});return i.observe(Object.assign({type:e,buffered:!0},n||{})),i}}catch(r){}},$=function(e,t,n,i){var r,o;return function(a){var u,c;t.value>=0&&(a||i)&&((o=t.value-(r||0))||void 0===r)&&(r=t.value,t.delta=o,t.rating=(u=t.value,u>(c=n)[1]?"poor":u>c[0]?"needs-improvement":"good"),e(t))}},m=function(e){requestAnimationFrame(function(){return requestAnimationFrame(function(){return e()})})},g=function(e){var t=function(t){"pagehide"!==t.type&&"hidden"!==document.visibilityState||e(t)};addEventListener("visibilitychange",t,!0),addEventListener("pagehide",t,!0)},y=function(e){var t=!1;return function(n){t||(e(n),t=!0)}},h=-1,T=function(){return"hidden"!==document.visibilityState||document.prerendering?1/0:0},b=function(e){"hidden"===document.visibilityState&&h>-1&&(h="visibilitychange"===e.type?e.timeStamp:0,S())},_=function(){addEventListener("visibilitychange",b,!0),addEventListener("prerenderingchange",b,!0)},S=function(){removeEventListener("visibilitychange",b,!0),removeEventListener("prerenderingchange",b,!0)},E=function(e){document.prerendering?addEventListener("prerenderingchange",function(){return e()},!0):e()},w={passive:!0,capture:!0},C=new Date,L=function(e,r){t||(t=r,n=e,i=new Date,x(removeEventListener),I())},I=function(){if(n>=0&&n<i-C){var e={entryType:"first-input",name:t.type,target:t.target,cancelable:t.cancelable,startTime:t.timeStamp,processingStart:t.timeStamp+n};r.forEach(function(t){t(e)}),r=[]}},k=function(e){if(e.cancelable){var t,n,i,r,o,a=(e.timeStamp>1e12?new Date:performance.now())-e.timeStamp;"pointerdown"==e.type?(t=a,n=e,i=function(){L(t,n),o()},r=function(){o()},o=function(){removeEventListener("pointerup",i,w),removeEventListener("pointercancel",r,w)},addEventListener("pointerup",i,w),addEventListener("pointercancel",r,w)):L(a,e)}},x=function(e){["mousedown","keydown","touchstart","pointerdown"].forEach(function(t){return e(t,k,w)})},P=0,B=1/0,D=0,N=function(e){e.forEach(function(e){e.interactionId&&(B=Math.min(B,e.interactionId),P=(D=Math.max(D,e.interactionId))?(D-B)/7+1:0)})},R=function(){return o?P:performance.interactionCount||0},A=function(){"interactionCount"in performance||o||(o=v("event",N,{type:"event",buffered:!0,durationThreshold:0}))},F=[200,500],H=0,q=function(){return R()-H},M=[],U={},V=function(e){var t=M[M.length-1],n=U[e.interactionId];if(n||M.length<10||e.duration>t.latency){if(n)n.entries.push(e),n.latency=Math.max(n.latency,e.duration);else{var i={id:e.interactionId,latency:e.duration,entries:[e]};U[i.id]=i,M.push(i)}M.sort(function(e,t){return t.latency-e.latency}),M.splice(10).forEach(function(e){delete U[e.id]})}},j=function(e,t){t=t||{},E(function(){A();var n,i,r=p("INP"),o=function(e){e.forEach(function(e){e.interactionId&&V(e),"first-input"!==e.entryType||M.some(function(t){return t.entries.some(function(t){return e.duration===t.duration&&e.startTime===t.startTime})})||V(e)});var t,n=M[t=Math.min(M.length-1,Math.floor(q()/50))];n&&n.latency!==r.value&&(r.value=n.latency,r.entries=n.entries,i())},a=v("event",o,{durationThreshold:null!==(n=t.durationThreshold)&&void 0!==n?n:40});i=$(e,r,F,t.reportAllChanges),a&&("interactionId"in PerformanceEventTiming.prototype&&a.observe({type:"first-input",buffered:!0}),g(function(){o(a.takeRecords()),r.value<0&&q()>0&&(r.value=0,r.entries=[]),i(!0)}),f(function(){M=[],H=R(),r=p("INP"),i=$(e,r,F,t.reportAllChanges)}))})},z=[2500,4e3],G={};return e.onINP=function(e,t){j(function(t){(function(e){if(e.entries.length){var t=e.entries.sort(function(e,t){return t.duration-e.duration||t.processingEnd-t.processingStart-(e.processingEnd-e.processingStart)})[0];e.attribution={eventTarget:s(t.target),eventType:t.name,eventTime:t.startTime,eventEntry:t,loadState:u(t.startTime)}}else e.attribution={}})(t),e(t)},t)},e.onLCP=function(e,t){var n,i;n=function(t){(function(e){if(e.entries.length){var t=a();if(t){var n=t.activationStart||0,i=e.entries[e.entries.length-1],r=i.url&&performance.getEntriesByType("resource").filter(function(e){return e.name===i.url})[0],o=Math.max(0,t.responseStart-n),u=Math.max(o,r?(r.requestStart||r.startTime)-n:0),c=Math.max(u,r?r.responseEnd-n:0),d=Math.max(c,i?i.startTime-n:0),f={element:s(i.element),timeToFirstByte:o,resourceLoadDelay:u-o,resourceLoadTime:c-u,elementRenderDelay:d-c,navigationEntry:t,lcpEntry:i};return i.url&&(f.url=i.url),r&&(f.lcpResourceEntry=r),void(e.attribution=f)}}e.attribution={timeToFirstByte:0,resourceLoadDelay:0,resourceLoadTime:0,elementRenderDelay:e.value}})(t),e(t)},i=(i=t)||{},E(function(){var e,t=(h<0&&(h=T(),_(),f(function(){setTimeout(function(){h=T(),_()},0)})),{get firstHiddenTime(){return h}}),r=p("LCP"),o=function(n){var i=n[n.length-1];i&&i.startTime<t.firstHiddenTime&&(r.value=Math.max(i.startTime-l(),0),r.entries=[i],e())},a=v("largest-contentful-paint",o);if(a){e=$(n,r,z,i.reportAllChanges);var u=y(function(){G[r.id]||(o(a.takeRecords()),a.disconnect(),G[r.id]=!0,e(!0))});["keydown","click"].forEach(function(e){addEventListener(e,function(){return setTimeout(u,0)},!0)}),g(u),f(function(t){r=p("LCP"),e=$(n,r,z,i.reportAllChanges),m(function(){r.value=performance.now()-t.timeStamp,G[r.id]=!0,e(!0)})})}})},Object.defineProperty(e,"__esModule",{value:!0}),e}({});
+</script>
+
+<script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
+window.INDOSLOTO=window.INDOSLOTO||{};
+INDOSLOTO.Context=INDOSLOTO.Context||{};
+(function() {
+function assign(firstSource, secondSource) {
+if (!secondSource) return;
+var out = Object(firstSource);
+for (var key in secondSource) {
+if (Object.prototype.hasOwnProperty.call(secondSource, key)) {
+out[key] = secondSource[key];
+}
+}
+return out;
+}
+INDOSLOTO.Context.feature=assign(INDOSLOTO.Context.feature ? INDOSLOTO.Context.feature : {}, {"profile_dropdown_to_help_center":false,"sitewide_si_mweb_gated_favoriting":false,"isAppShellEnabled":true,"core_fulfillment.product_level_readiness_states":false,"design_systems.buybox_performance_web_components":false,"seller_platform_web.buyer_inquiry":false,"seller_platform_web.seller_local_time":false,"seller_platform_web.item_detail_overlay":false,"buyer_promise.issue_resolution.fee_avoidance_v2":false,"content_moderation.convo_safety.structured_convos":false,"risk_experience.buyer_email_verification":false});
+INDOSLOTO.Context.data=assign(INDOSLOTO.Context.data ? INDOSLOTO.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-US","id":0,"name":"English (US)","translation":"English (US)","is_detected":false,"is_default":true},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffbde3696ef.69632e5014d83cdc8fa2.00","primary_event_name":"view_listing","request_uuid":"EunhLnzL4sAYJypZdeOPahA2o_53","user_is_test_account":false,"user_id":null,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.b60eba69b0e074.css","fix_domready":true,"auto_yield":true,"vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-US\/","guest_uaid":["uj0nemGYfZm0u5UhoRQWjT5qMRzf","uj0nemGYfZm0u5UhoRQWjT5qMRzf"],"is_app_shell":true,"csrf_nonce":"3:1757443933:Mvi3gD28lGl_sMVoWBqRUvO_fPN7:fb5b3b0b6c9d621df07685fcadfae794290315e934e51dac8c5cc31a46f635c0","uaid_nonce":"3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EunhLnzL4sAYJypZdeOPahA2o_53","digest":"e45a20331c4c369cb55b4c17b23900bdd1979e0f","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"bf47527aa0b4cf042","c5420ec98ed7db34_appshell_fallback":"b58bc9bdcc28e8c2a","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"in_cart_count":0,"page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":true,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]},"lp_impact_narrative_banner_carbon":{"impact_name":"lp_impact_narrative_banner_carbon","impact_themes":["carbon"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":4302118744,"listing_price":22.5,"shopId":25947065,"shop_id":25947065,"shop_name":"TOGEL ONLINE","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":false,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":false,"referring_listing_id":4302118744,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","post
